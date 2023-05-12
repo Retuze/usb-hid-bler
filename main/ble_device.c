@@ -3,7 +3,7 @@
  *
  * SPDX-License-Identifier: Unlicense OR CC0-1.0
  */
-
+#define retuze
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
